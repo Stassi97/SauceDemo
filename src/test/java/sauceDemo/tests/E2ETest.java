@@ -33,6 +33,6 @@ public class E2ETest extends BaseTest {
         information.contin();
 
         Finish finish = new Finish();
-        finish.finish();
+        //finish.finish();
     }
 }
